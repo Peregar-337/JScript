@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: -100px;
+    margin: 0;
+}
+
+#hideButton {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}

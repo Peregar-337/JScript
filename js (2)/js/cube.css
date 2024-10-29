@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#colorSquare {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(15, 98, 167);
+    transition: background-color 1s;
+}
